@@ -1,0 +1,8 @@
+repozytorioum projekt ogolny tam mozna zapisywac zmiany i takie inne jest lokalne i zdalne
+github pozwala nam zeby udostepniac wszystkim uczestnikom projektu na dopisywanie swojej roboty 
+git to taki github jakby tylko on zmienia w plikach w kpomputerze
+commit taki zapis jak w grze kodu 
+branch to taka alternatywna rzeczywistosc zadaniowa wsensie ze inni robia w kazdym branchu swoim swoje zadania a potem je merguja
+checkout przenosi nas do roznych branchy
+merge spaja galezie jak sie skonczy prace
+rebase aktualizuje baze swojej galezi?
